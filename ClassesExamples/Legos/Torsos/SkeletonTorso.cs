@@ -16,6 +16,5 @@ namespace ClassesExamples.Legos.Torsos
             Console.WriteLine("Rattle Rattle... ");
             Wave();
         }
-
     }
 }
